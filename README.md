@@ -1,1 +1,1 @@
-# mm2.lua
+print("hello skidders")
